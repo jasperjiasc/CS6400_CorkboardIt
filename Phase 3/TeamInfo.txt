@@ -1,0 +1,4 @@
+Phase 3| CS6400 - Fall2018|Team 062
+
+The file that contains SQL queries are as follow:
+..\Phase 3\Corkboard\src\information\DataProvider.java
